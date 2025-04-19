@@ -1,4 +1,3 @@
 # Company-HR-Data-Analysis-Report
-• Designed and optimized SQL queries to extract and manipulate HR-related data from multiple tables.
-• Performed data aggregation and analysis on employee records.
-• Ensured data integrity and accuracy in the reporting process.
+Hello 
+This project involves exploratory data analysis (EDA) on a simulated Human Resources (HR) database using SQL. The primary goal is to extract actionable insights related to employee demographics, job roles, department performance, hiring trends, and attrition patterns to support data-driven HR decisions.
