@@ -4,8 +4,24 @@ Hello All,
 This is a Company HR Analysis Report
 
 This project involves exploratory data analysis (EDA) on a simulated Human Resources (HR) database using SQL. The primary goal is to extract actionable insights related to employee demographics, job roles, department performance, hiring trends, and attrition patterns to support data-driven HR decisions.
+
 The entities involed in this file are as follows:
-Employee,
+
+1:Employees: An employee is an individual who works for the company.
+
+2:Departments: A department is a functional unit within the company.
+
+3:Locations: A location is a physical site where the company operates.
+
+4:Job Histories: A job history represents an employee's previous job assignments
+
+5:Managers: A manager is an employee who supervises other employees.
+
+6:Jobs: A job represents a specific role within the company.
+
+7:Regions: A region represents a geographic area where the company operates.
+
+8:Countries: A country represents a sovereign nation where the company operates.
 
 The technology used in designing this project is **Oracle SQL Developer tool** where in the SQL Queries are written in order to meet business requirement.
 Also this project contains 2 files:
